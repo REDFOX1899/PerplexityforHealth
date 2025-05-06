@@ -4,6 +4,26 @@ PerplexityforHealth
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Tech Stack
+
+This project utilizes the following technologies:
+
+### Backend
+
+* **Python:** A versatile and widely-used programming language known for its readability and extensive libraries.
+    * *Benefit:* Easy to learn, large community support, and powerful frameworks simplify API development.
+
+### Data Storage
+
+* **PostgreSQL:** A robust, reliable, and feature-rich open-source relational database system.
+    * *Benefit:* Reliable and structured data storage, well-suited for most web application needs, ensuring data integrity and efficient querying.
+
+### Frontend
+
+* **React:** A popular JavaScript library for building dynamic and interactive user interfaces with a component-based architecture.
+* **Material UI:** A comprehensive set of pre-built and customizable UI components that implement Google's Material Design specification.
+    * *Benefit:* Provides a consistent and modern look with readily available components, significantly reducing the need to write CSS and basic UI elements from scratch. React's component-based structure promotes reusability and maintainability.
+
 This project aims to create a health-focused AI assistant leveraging the power of Perplexity's Sonar API. It will provide users with intelligent health information, virtual health assistant features, and tools for personal health management.
 
 ## Development Plan Checklist
